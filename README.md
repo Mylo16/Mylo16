@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Eric Antwi 👋
+<img src = "https://www.canva.com/design/DAFfPsvCn6U/c_Ja7kmsEX1LOPCX8EpnhA/edit?utm_content=DAFfPsvCn6U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
 
 <!--
 **Mylo16/Mylo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
