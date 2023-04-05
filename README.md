@@ -1,16 +1,22 @@
-### Hi there, my name is Eric Antwi 👋
-![alt text]([http://url/to/img.png](https://www.canva.com/design/DAFfPsvCn6U/c_Ja7kmsEX1LOPCX8EpnhA/edit?utm_content=DAFfPsvCn6U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+## Hi there, my name is Eric Antwi 👋
+![The Coding Hands](https://user-images.githubusercontent.com/112702953/230143450-167870d4-ef1a-4e58-8edf-0e89b02448b3.png)
 
 I am a software developer who is always available to render services to clients🤝. I am currently enrolled in Microverse, an online full stack web development training school. I have basic knowledge in JavaScript, Html and CSS. I am being trained to become a professional remote software developer. I am passionate about coding and happy to be joining the world of programming✨.
 
 
 ## Languages and tools
-<img src = "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,webpack,react,vscode)](https://skillicons.dev)
+
 
 ## I am available on the web🌍.
 - Let's get linked up on <a href = "https://www.linkedin.com/in/eric-opoku-antwi384/">LinkedIn</a>
 - Let's tweet on  <a href = "https://twitter.com/EricAnt33872607">Twitter</a>
 - Find me on <a href = "https://www.facebook.com/">Facebook</a>
+
+
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mylo16&&show_icons=true&theme=dark)](https://github.com/Mylo16)
+
+
 <!--
 **Mylo16/Mylo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
