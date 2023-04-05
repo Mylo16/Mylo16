@@ -1,5 +1,5 @@
 ### Hi there, my name is Eric Antwi 👋
-<img src = "https://www.canva.com/design/DAFfPsvCn6U/c_Ja7kmsEX1LOPCX8EpnhA/edit?utm_content=DAFfPsvCn6U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
+<img src = "[https://www.canva.com/design/DAFfPsvCn6U/c_Ja7kmsEX1LOPCX8EpnhA/edit?utm_content=DAFfPsvCn6U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFfPsvCn6U/XFi2ZTxJPXk7C04G_JxnzQ/view?utm_content=DAFfPsvCn6U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)"/>
 
 <!--
 **Mylo16/Mylo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
