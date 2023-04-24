@@ -10,7 +10,7 @@ I am a software developer who is always available to render services to clientsğ
 
 ## I am available on the webğŸŒ.
 - Let's get linked up on <a href = "https://www.linkedin.com/in/eric-opoku-antwi384/">LinkedIn</a>
-- Let's tweet on  <a href = "https://twitter.com/EricAnt33872607">Twitter</a>
+- Let's tweet on  <a href = "https://twitter.com/EricAntwi384">Twitter</a>
 - Find me on <a href = "https://www.facebook.com/">Facebook</a>
 
 
