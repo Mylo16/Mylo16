@@ -1,7 +1,7 @@
 ## Hi there, my name is Eric Antwi 👋
 ![The Coding Hands](https://user-images.githubusercontent.com/112702953/230143450-167870d4-ef1a-4e58-8edf-0e89b02448b3.png)
 
-I am a software developer who is always available to render services to clients🤝. I am currently enrolled in Microverse, an online full stack web development training school. I have basic knowledge in JavaScript, Html and CSS. I am being trained to become a professional remote software developer. I am passionate about coding and happy to be joining the world of programming✨.
+I am a software developer who is always available to render services to clients🤝. My tech stack include React, JavaScript, Html, CSS, Ruby on Rails, PostgreSQL. I am a professional remote software developer. I am passionate about coding and happy to be joining the world of programming✨.
 
 
 ## Languages and tools
